@@ -183,3 +183,4 @@ cython_debug/
 # other rough programs
 generate_loyalty_fraud_data.py
 CLAUDE.md
+generated_samples/
